@@ -1,0 +1,12 @@
+modules/
+SekretDocuments/
+jdk-13.0.2/
+
+.idea/
+
+# Ignoring these 'cause it helps keep things clean
+*.xml
+*.iml
+
+
+!*.py
